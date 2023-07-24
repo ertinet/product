@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072835744078",
+    "project_id": "trainear-22fe6",
+    "storage_bucket": "trainear-22fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072835744078:android:d22aa13c67dc505a07ce1f",
+        "android_client_info": {
+          "package_name": "com.naamani.trainear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072835744078-jqcof8f8qg0rlfe33vf06dq6liubdcv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyvyqJ1Ur5af9WjEbs3xCEbwD18YU95Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072835744078-jqcof8f8qg0rlfe33vf06dq6liubdcv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072835744078-d94arhausi9c2i0lcgt1cir3hfec5vhr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.naamani.trainear"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
